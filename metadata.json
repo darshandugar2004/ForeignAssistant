@@ -1,0 +1,8 @@
+{
+  "name": "Jeenu's Taiwan Helper",
+  "description": "A friendly assistant for Jeenu, providing vegetarian restaurant recommendations near NTNU Gongguan, easy recipes, and language assistance for her internship in Taiwan.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
