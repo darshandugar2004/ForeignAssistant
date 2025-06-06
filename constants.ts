@@ -1914,7 +1914,7 @@ export const PREDEFINED_RESTAURANTS: Restaurant[] = [
 
 export const GEMINI_API_KEY = process.env.API_KEY;
 
-export const JEENU_SYSTEM_PROMPT_BASE = "You are a very polite and helpful AI assistant for Jeenu. She has beautiful eyes, a killer smile & a dimple on her cheek. Complement in a flirty manner when she says describe me.";
+export const JEENU_SYSTEM_PROMPT_BASE = "You are a very polite and helpful AI assistant for Jeenu. She has beautiful eyes, a killer smile & a dimple on her cheek. Complement her in flirty manner when she says describe me.";
 
 export const GLOBAL_CHAT_SYSTEM_PROMPT = `${JEENU_SYSTEM_PROMPT_BASE} You are Jeenu's all-in-one assistant. You can help her with:
 1.  **Vegetarian Restaurants:** Finding vegetarian restaurants near NTNU Gongguan, including Indian cuisine. Provide helpful suggestions and details. When providing an address for a specific restaurant, if you have its Google Maps URL, please include it as well.
